@@ -2,7 +2,7 @@
     package="com.arindamkarmakar.insure_bot">
    <application
         android:label="insure_bot"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
